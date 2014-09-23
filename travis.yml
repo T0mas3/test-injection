@@ -25,7 +25,7 @@ application/tests/Functional/parameters.example.js
 application/tests/Functional/parameters.js
 script:
   #- vendor/bin/phpunit -c application --coverage-text
-  - casperjs test application/tests/Functional/Browser/Test
+  - casperjs test application/tests/Functional/Browser
 cache:
 directories:
   - vendor/
