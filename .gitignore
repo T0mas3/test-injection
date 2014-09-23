@@ -1,0 +1,6 @@
+/vendor
+/.idea
+/application/logs
+/adminer.php
+
+/application/config/database.php
