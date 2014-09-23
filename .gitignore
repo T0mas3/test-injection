@@ -4,3 +4,4 @@
 /adminer.php
 
 /application/config/database.php
+/application/tests/Functional/parameters.js
